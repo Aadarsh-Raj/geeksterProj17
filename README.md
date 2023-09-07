@@ -15,3 +15,4 @@ Margin, padding, box-sizing, width, height, color, background-color are some pro
 <br>
 
 Some extra like box-shadow, display with flex property value, position with absolute property value and transform <br> have been used for giving shadow in the container, for managing proper width of the containers, for managing position of the element <br> and for rotating the div element with an angle.
+Overflow is used in body for non-scrollable body.
